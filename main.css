@@ -1,0 +1,17 @@
+header {
+    background: grey;
+    padding: 2rem;
+}
+body {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    padding: 10rem;
+}
+div {
+    margin: 2rem;
+}
+footer {
+    background: lightgrey;
+    padding: 2rem;
+}
